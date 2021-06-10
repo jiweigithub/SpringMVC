@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-1-servlet" />
+        <module name="springmvc-2-hellomvc" />
       </profile>
     </annotationProcessing>
   </component>
