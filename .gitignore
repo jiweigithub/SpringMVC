@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/springmvc-1-servlet/target/
