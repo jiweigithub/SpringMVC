@@ -11,6 +11,7 @@
     <modules>
         <module>springmvc-1-servlet</module>
         <module>springmvc-2-hellomvc</module>
+        <module>springmvc-3-annotaion</module>
     </modules>
 
     <dependencies>
