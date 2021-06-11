@@ -8,7 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-2-hellomvc" />
         <module name="springmvc-1-servlet" />
-        <module name="springmvc-3-annotaion" />
+        <module name="springmvc-3-annotation" />
+        <module name="springmvc-4-controller" />
       </profile>
     </annotationProcessing>
   </component>
